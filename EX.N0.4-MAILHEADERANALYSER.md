@@ -8,7 +8,7 @@
 - Gmail: Open the email, click the three dots (⋮), and select Show original.
 <br>
 <br>
-<img width="1919" height="1014" alt="Screenshot 2025-09-01 152211" src="https://github.com/user-attachments/assets/6c0164e1-ffd1-4e03-b610-2c0d34f26f23" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-27 231320" src="https://github.com/user-attachments/assets/e08fd81c-0e31-4502-a96e-470e7a1e6096" />
 
 
 <br>
