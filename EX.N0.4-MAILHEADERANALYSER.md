@@ -13,7 +13,7 @@
 
 <br>
 <br>
-<img width="1919" height="1025" alt="Screenshot 2025-09-01 152302" src="https://github.com/user-attachments/assets/d8e0e95d-f7e4-4813-ab10-db7edc052a27" />
+<img width="1920" height="1080" alt="Screenshot 2025-10-27 232025" src="https://github.com/user-attachments/assets/e727f224-3ccc-4dee-b5f1-f0f1fc5050dc" />
 
 
 - Select all the text in the header and copy it.
