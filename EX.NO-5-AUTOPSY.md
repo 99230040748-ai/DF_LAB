@@ -12,7 +12,7 @@ Autopsy is an open-source digital forensics platform used for analyzing and extr
   -  *Click on New Case.*
     
     <br>
-  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/948b78f3-c1ad-4c8f-a5d0-6c015cb4b453" />
+  <img width="960" height="540" alt="image" src="https://github.com/user-attachments/assets/658a15fe-f485-48c5-9ee2-cb11d819a288" />
 
      <br>
      
